@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\bin\Debug\netcoreapp2.1\PermissionSystem.deps.json
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\bin\Debug\netcoreapp2.1\PermissionSystem.runtimeconfig.json
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\bin\Debug\netcoreapp2.1\PermissionSystem.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\bin\Debug\netcoreapp2.1\PermissionSystem.dll
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\obj\Debug\netcoreapp2.1\PermissionSystem.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\obj\Debug\netcoreapp2.1\PermissionSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\obj\Debug\netcoreapp2.1\PermissionSystem.RazorAssemblyInfo.cache
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\obj\Debug\netcoreapp2.1\PermissionSystem.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\obj\Debug\netcoreapp2.1\PermissionSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\obj\Debug\netcoreapp2.1\PermissionSystem.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\obj\Debug\netcoreapp2.1\PermissionSystem.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\bin\Debug\netcoreapp2.1\PermissionSystem.pdb
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\obj\Debug\netcoreapp2.1\PermissionSystem.dll
+C:\Users\ASUS\source\repos\PermissionSystem\PermissionSystem\obj\Debug\netcoreapp2.1\PermissionSystem.pdb
